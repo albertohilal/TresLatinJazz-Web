@@ -20,9 +20,13 @@ TresLatinJazz-Web/
 ├── docs/
 │   ├── 01_diagnostico/
 │   ├── 02_home/
+│   │   ├── 01_wireframe_home.md
+│   │   └── 02_decision_arquitectura.md
 │   ├── 03_contenido/
 │   ├── 04_tecnico/
-│   └── 05_roadmap/
+│   ├── 05_roadmap/
+│   └── decisiones-arquitectura/
+│       └── landing-paralela-home.md
 ├── tools/
 │   └── website-analyzer/
 └── assets/
